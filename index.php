@@ -12,10 +12,10 @@ echo <<< EOM
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
-  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-  <script type="text/javascript" src="http://code.jquery.com/mobile/latest/jquery.mobile.js"></script>
-  <link type="text/css" rel="stylesheet" href="http://code.jquery.com/mobile/latest/jquery.mobile.css"/>
-  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/mobile/latest/jquery.mobile.js"></script>
+  <link type="text/css" rel="stylesheet" href="https://code.jquery.com/mobile/latest/jquery.mobile.css"/>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
   <title>chkenv</title>
 </head>
 <body>
